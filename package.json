@@ -1,6 +1,6 @@
 {
   "name": "eat-n-split",
-  "homapage": "https://igreknet.github.io/travel-list",
+  "homepage": "https://igreknet.github.io/travel-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
